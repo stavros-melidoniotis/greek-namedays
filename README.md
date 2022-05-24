@@ -1,6 +1,6 @@
-# greek-namedays
+# greek-namedays 📆
 
-JSON files containing both fixed and moving Greek namedays. 
+JSON files containing both fixed and moving Greek namedays.
 
 # Files explanation
 - ```fixed_namedays.json```: Contains fixed namedays of the entire year
